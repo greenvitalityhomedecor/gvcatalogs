@@ -14,20 +14,5 @@
     "path": "catalog2/index.html",
     "image": "Logo.png",
     "visible": true
-  },
-  {
-    "id": "catalog3",
-    "title": "Catalog 3 (New Category)",
-    "category": "Flowers",
-    "path": "catalog1/index.html",
-    "image": "Logo.png",
-    "visible": true
-  },{
-    "id": "catalog4",
-    "title": "Catalog 3 (New Category)",
-    "category": "Flowers",
-    "path": "catalog1/index.html",
-    "image": "Logo.png",
-    "visible": true
   }
 ]
