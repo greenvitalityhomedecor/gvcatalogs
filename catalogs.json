@@ -1,0 +1,33 @@
+[
+  {
+    "id": "catalog1",
+    "title": "Finest Porcelain Crockery (Ready Stock)",
+    "category": "Tableware for Cafe, Restaurent & Hotels",
+    "path": "catalog1/index.html",
+    "image": "Logo.png",
+    "visible": true
+  },
+  {
+    "id": "catalog2",
+    "title": "Indoor ready stock",
+    "category": "Pots & Planters Catalogues",
+    "path": "catalog2/index.html",
+    "image": "Logo.png",
+    "visible": true
+  },
+  {
+    "id": "catalog3",
+    "title": "Catalog 3 (New Category)",
+    "category": "Flowers",
+    "path": "catalog1/index.html",
+    "image": "Logo.png",
+    "visible": true
+  },{
+    "id": "catalog4",
+    "title": "Catalog 3 (New Category)",
+    "category": "Flowers",
+    "path": "catalog1/index.html",
+    "image": "Logo.png",
+    "visible": true
+  }
+]
