@@ -28,40 +28,64 @@
             text-align: center; /* Center text for better mobile display */
             flex-grow: 1; /* Allow h1 to take available space */
         }
-        #products-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Adjusted minmax for slightly larger cards */
-            gap: 60px; /* Increased gap for more whitespace */
-            padding: 60px; /* More padding */
-            justify-content: center; /* Center the grid items */
-            max-width: 1200px; /* Max width for content */
-            margin: 0 auto; /* Center the container */
-        }
-        .product-card {
-            border: none; /* Remove default border */
-            padding: 20px; /* More internal padding */
+
+        .card-base {
+            border: none;
+            padding: 20px;
             text-align: center;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08); /* Softer, more pronounced shadow */
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+            background-color: #fff;
+            border-radius: 12px;
+            overflow: hidden;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
             display: flex;
             flex-direction: column;
-            justify-content: space-between;
-            height: 420px; /* Slightly increased fixed height */
-            width: 100%; /* Make width responsive within grid */
-            background-color: #fff;
-            border-radius: 12px; /* More rounded corners */
-            overflow: hidden;
-            transition: transform 0.2s ease, box-shadow 0.2s ease; /* Smooth hover effects */
+            min-height: 380px; /* Set a minimum height for consistency, but allow content to expand */
         }
-        .product-card:hover {
-            transform: translateY(-5px); /* Lift card on hover */
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12); /* Enhanced shadow on hover */
+
+        .card-base:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
         }
-        .product-image {
+
+        .card-image-base {
             max-width: 100%;
-            height: 240px; /* Slightly increased fixed height for image */
             object-fit: contain;
-            margin-bottom: 15px; /* More space below image */
-            border-radius: 8px; /* Rounded corners for images */
+            margin-bottom: 15px;
+            border-radius: 8px;
+            /* Removed aspect-ratio: 1/1 to allow more flexible sizing */
+            height: auto; /* Allow height to adjust */
+        }
+
+        /* Media query for tablet and desktop image sizing */
+        @media (min-width: 769px) {
+            .card-image-base {
+                max-width: 250px; /* Limit image width on larger screens */
+                max-height: 250px; /* Limit image height on larger screens */
+                width: auto; /* Allow width to adjust based on aspect ratio */
+                height: auto; /* Allow height to adjust based on aspect ratio */
+                object-fit: contain; /* Ensure image fits without cropping */
+            }
+        }
+
+        #products-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 60px;
+            padding: 60px;
+            justify-content: center;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .product-card {
+            @extend .card-base;
+            justify-content: space-between;
+            width: 100%;
+        }
+
+        .product-image {
+            @extend .card-image-base;
         }
         .product-name {
             font-family: 'Montserrat', sans-serif;
@@ -325,14 +349,16 @@
             }
 
             .product-card {
-                width: calc(100% - 40px); /* Fill screen width with 20px padding on each side */
+                width: 100%; /* Fill screen width up to max-width */
                 margin: 0 auto; /* Center the card */
                 height: auto; /* Allow height to adjust based on content */
                 max-width: 350px; /* Max width for slightly larger mobile devices */
             }
 
             .product-image {
-                height: 180px; /* Adjust image height for mobile */
+                height: 180px; /* Fixed height for consistency on mobile */
+                width: 100%; /* Fill available width */
+                object-fit: contain; /* Ensure image fits without cropping */
             }
 
             .product-name {
@@ -429,44 +455,99 @@
         }
 
         .catalog-card {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
+            position: relative;
+            overflow: hidden;
+            border-radius: 12px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
             text-decoration: none;
             color: inherit;
-            border: none;
-            padding: 20px;
-            text-align: center;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
-            height: 380px;
-            background-color: #fff;
-            border-radius: 12px;
-            overflow: hidden;
-            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            display: block;
         }
 
         .catalog-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+            transform: scale(1.05);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
         }
 
+        .catalog-card-image-wrapper {
+            width: 100%;
+            padding-top: 100%; /* 1:1 Aspect Ratio */
+            position: relative;
+        }
+        
         .catalog-image {
-            max-width: 100%;
-            height: 240px;
-            object-fit: contain;
-            margin-bottom: 15px;
-            border-radius: 8px;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        .catalog-card-overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: linear-gradient(to top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 100%);
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            align-items: center;
+            text-align: center;
+            height: 100%;
+            box-sizing: border-box;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .catalog-card:hover .catalog-card-overlay {
+            opacity: 1;
         }
 
         .catalog-name {
             font-family: 'Montserrat', sans-serif;
-            font-size: 1.3em;
-            margin: 10px 0;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            color: #333;
+            color: #fff;
+            font-size: 1.2em;
             font-weight: 600;
+            margin: 0 0 10px 0;
+        }
+
+        .view-catalog-btn {
+            font-family: 'Lato', sans-serif;
+            background-color: #00CC99; /* Accent color */
+            color: #fff;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            text-transform: uppercase;
+            font-weight: 700;
+            font-size: 0.8em;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .catalog-card:hover .view-catalog-btn {
+            opacity: 1;
+        }
+        @media (min-width: 769px) {
+            .catalog-cards-container {
+                grid-template-columns: repeat(auto-fit, minmax(280px, 320px));
+                justify-content: center; /* Center the grid items */
+            }
+
+            .catalog-card {
+                max-width: 320px; /* Fixed width for desktop */
+                box-shadow: 0 10px 20px rgba(0,0,0,0.1), 0 6px 6px rgba(0,0,0,0.12); /* Floating effect */
+            }
+
+            .catalog-card:hover {
+                transform: translateY(-5px) scale(1.03); /* Lift and slightly zoom */
+                box-shadow: 0 15px 30px rgba(0,0,0,0.15), 0 10px 10px rgba(0,0,0,0.1);
+            }
         }
 
         @media (max-width: 768px) {
@@ -482,19 +563,5 @@
             .catalog-cards-container {
                 grid-template-columns: 1fr;
                 gap: 20px;
-            }
-
-            .catalog-card {
-                height: auto;
-                max-width: 350px;
-                margin: 0 auto;
-            }
-
-            .catalog-image {
-                height: 180px;
-            }
-
-            .catalog-name {
-                font-size: 1.1em;
             }
         }

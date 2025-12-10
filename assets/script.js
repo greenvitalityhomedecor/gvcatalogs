@@ -42,8 +42,13 @@ document.addEventListener('DOMContentLoaded', () => {
                     catalogCard.classList.add('catalog-card');
 
                     catalogCard.innerHTML = `
-                        <img src="${catalog.image}" alt="${catalog.title}" class="catalog-image">
-                        <h3 class="catalog-name">${catalog.title}</h3>
+                        <div class="catalog-card-image-wrapper">
+                            <img src="${catalog.image}" alt="${catalog.title}" class="catalog-image">
+                        </div>
+                        <div class="catalog-card-overlay">
+                            <h3 class="catalog-name">${catalog.title}</h3>
+                            <button class="view-catalog-btn">View Catalog</button>
+                        </div>
                     `;
                     catalogCardsContainer.appendChild(catalogCard);
                 });
