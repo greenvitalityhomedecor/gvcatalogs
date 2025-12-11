@@ -296,14 +296,6 @@
     "description": "Price :\n\u20b945"
   },
   {
-    "id": 38,
-    "name": "Price",
-    "sku": "-OdxjlwZ_i2I23YS7ZYP",
-    "price": 418.6,
-    "image": "images/Price_0038_img2.jpg",
-    "description": "A high-quality product: Price"
-  },
-  {
     "id": 39,
     "name": "H5'' D5.5''",
     "sku": "-OdxjlwZ_i2I23YS7ZYS",
@@ -446,14 +438,6 @@
     "price": 109.2,
     "image": "images/H5'' D5''_0056_img2.jpg",
     "description": "Price :\n\u20b978"
-  },
-  {
-    "id": 57,
-    "name": "Price",
-    "sku": "-OdxjlwZ_i2I23YS7ZYk",
-    "price": 418.6,
-    "image": "images/Price_0057_img2.jpg",
-    "description": "A high-quality product: Price"
   },
   {
     "id": 58,
@@ -864,14 +848,6 @@
     "description": "Price :\n\u20b9185"
   },
   {
-    "id": 109,
-    "name": "Price",
-    "sku": "-OdDmr0rlJ_40WbYBiAx",
-    "price": 418.6,
-    "image": "images/Price_0109_img2.jpg",
-    "description": "A high-quality product: Price"
-  },
-  {
     "id": 110,
     "name": "H8\" D6\"",
     "sku": "-OdDmr0rlJ_40WbYBiAz",
@@ -1024,14 +1000,6 @@
     "description": "H7\" D10\" \nH6.5\" D8\""
   },
   {
-    "id": 129,
-    "name": "Price",
-    "sku": "-OdDm_qWeRNE6ztG-JCN",
-    "price": 418.6,
-    "image": "images/Price_0129_img2.jpg",
-    "description": "A high-quality product: Price"
-  },
-  {
     "id": 130,
     "name": "SET OF 2",
     "sku": "-OdDm_qWeRNE6ztG-JCO",
@@ -1046,14 +1014,6 @@
     "price": 12.6,
     "image": "images/H2 D2_0131_img2.jpg",
     "description": "A high-quality product: H2\" D2\""
-  },
-  {
-    "id": 132,
-    "name": "Price",
-    "sku": "-OdDm_qWeRNE6ztG-JCQ",
-    "price": 418.6,
-    "image": "images/Price_0132_img2.jpg",
-    "description": "A high-quality product: Price"
   },
   {
     "id": 133,
@@ -2152,14 +2112,6 @@
     "description": "Price :\n\u20b978"
   },
   {
-    "id": 270,
-    "name": "Price",
-    "sku": "-OcuNAWENTu6m6oWYI5b",
-    "price": 418.6,
-    "image": "images/Price_0270_img2.jpg",
-    "description": "A high-quality product: Price"
-  },
-  {
     "id": 271,
     "name": "H4\" D6\"",
     "sku": "-OcuNAWENTu6m6oWYI5c",
@@ -2408,14 +2360,6 @@
     "description": "H4\" D8\" \nH4\" D6\" \nH3\" D4\""
   },
   {
-    "id": 302,
-    "name": "Price",
-    "sku": "-OcuMv6Mk_unhi4AQTBb",
-    "price": 418.6,
-    "image": "images/Price_0302_img2.jpg",
-    "description": "A high-quality product: Price"
-  },
-  {
     "id": 303,
     "name": "H7\" D11\"",
     "sku": "-OcuMv6Mk_unhi4AQTBd",
@@ -2606,22 +2550,6 @@
     "price": 315.0,
     "image": "images/SET OF 2_0326_img2.jpg",
     "description": "H3\" D11\"\nH2\" D9\""
-  },
-  {
-    "id": 327,
-    "name": "Price",
-    "sku": "-OcuM0Kd3lhSji4wQNGt",
-    "price": 418.6,
-    "image": "images/Price_0327_img2.jpg",
-    "description": "A high-quality product: Price"
-  },
-  {
-    "id": 328,
-    "name": "Price",
-    "sku": "-OcuM0Kd3lhSji4wQNGu",
-    "price": 418.6,
-    "image": "images/Price_0328_img2.jpg",
-    "description": "A high-quality product: Price"
   },
   {
     "id": 329,
@@ -3112,14 +3040,6 @@
     "description": "Price :\n\u20b978"
   },
   {
-    "id": 390,
-    "name": "Price",
-    "sku": "-OcuLamyPiKIgDByWRRM",
-    "price": 418.6,
-    "image": "images/Price_0390_img2.jpg",
-    "description": "A high-quality product: Price"
-  },
-  {
     "id": 391,
     "name": "H7\" D8\"",
     "sku": "-OcuLamyPiKIgDByWRRN",
@@ -3214,14 +3134,6 @@
     "price": 67.2,
     "image": "images/H4 D5_0402_img2.jpg",
     "description": "Price :\n\u20b948"
-  },
-  {
-    "id": 403,
-    "name": "Price",
-    "sku": "-OcuKx3GfkF7myi2KdUm",
-    "price": 418.6,
-    "image": "images/Price_0403_img2.jpg",
-    "description": "A high-quality product: Price"
   },
   {
     "id": 404,
@@ -3870,14 +3782,6 @@
     "price": 95.2,
     "image": "images/H3.5 D5_0484_img2.jpg",
     "description": "Price :\n\u20b968"
-  },
-  {
-    "id": 485,
-    "name": "Price",
-    "sku": "-OcuK7X9fMKqD_RahbmP",
-    "price": 0.0,
-    "image": "images/Price_0485_img2.png",
-    "description": "A high-quality product: Price"
   },
   {
     "id": 486,
@@ -12280,14 +12184,6 @@
     "description": "Price :\n\u20b968"
   },
   {
-    "id": 1536,
-    "name": "Price",
-    "sku": "-OcK1G38inICLvK0Q6k0",
-    "price": 0.0,
-    "image": "images/Price_1536_img2.png",
-    "description": "A high-quality product: Price"
-  },
-  {
     "id": 1537,
     "name": "H5'' D4''",
     "sku": "-OcK1G38inICLvK0Q6k1",
@@ -12318,14 +12214,6 @@
     "price": 221.2,
     "image": "images/H5'' D5''_1540_img2.jpg",
     "description": "Price :\n\u20b9158"
-  },
-  {
-    "id": 1541,
-    "name": "Price",
-    "sku": "-OcK1G38inICLvK0Q6k5",
-    "price": 0.0,
-    "image": "images/Price_1541_img2.png",
-    "description": "A high-quality product: Price"
   },
   {
     "id": 1542,
@@ -13342,14 +13230,6 @@
     "price": 81.2,
     "image": "images/H3'' D4.5''_1668_img2.jpg",
     "description": "Price :\n\u20b958"
-  },
-  {
-    "id": 1669,
-    "name": "Price",
-    "sku": "-OcK0sCUAm2ciflGrOyu",
-    "price": 0.0,
-    "image": "images/Price_1669_img2.png",
-    "description": "A high-quality product: Price"
   },
   {
     "id": 1670,
