@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "7'' inches",
+    "sku": "-OLTbOzMxyxLuAxCQVxw",
     "price": 109.2,
     "image": "images/7'' inches_0001_img2.jpg",
     "description": "A high-quality product: 7'' inches"
@@ -9,6 +10,7 @@
   {
     "id": 2,
     "name": "7'' inches",
+    "sku": "-OLTbOzNpmsCFGTwR8oe",
     "price": 112.0,
     "image": "images/7'' inches_0002_img2.jpg",
     "description": "A high-quality product: 7'' inches"
@@ -16,6 +18,7 @@
   {
     "id": 3,
     "name": "7'' inches",
+    "sku": "-OLTbOzNpmsCFGTwR8of",
     "price": 112.0,
     "image": "images/7'' inches_0003_img2.jpg",
     "description": "A high-quality product: 7'' inches"
@@ -23,6 +26,7 @@
   {
     "id": 4,
     "name": "7'' inches",
+    "sku": "-OLTbOzNpmsCFGTwR8oi",
     "price": 112.0,
     "image": "images/7'' inches_0004_img2.jpg",
     "description": "A high-quality product: 7'' inches"
@@ -30,6 +34,7 @@
   {
     "id": 5,
     "name": "9'' inches",
+    "sku": "-OLTbOzNpmsCFGTwR8oj",
     "price": 154.0,
     "image": "images/9'' inches_0005_img2.jpg",
     "description": "A high-quality product: 9'' inches"
@@ -37,6 +42,7 @@
   {
     "id": 6,
     "name": "10\" inches",
+    "sku": "-OLTbOzNpmsCFGTwR8ok",
     "price": 224.0,
     "image": "images/10 inches_0006_img2.jpg",
     "description": "A high-quality product: 10\" inches"
@@ -44,6 +50,7 @@
   {
     "id": 7,
     "name": "10\" inches",
+    "sku": "-OLTbOzNpmsCFGTwR8ol",
     "price": 224.0,
     "image": "images/10 inches_0007_img2.jpg",
     "description": "A high-quality product: 10\" inches"
@@ -51,6 +58,7 @@
   {
     "id": 8,
     "name": "10\" inches",
+    "sku": "-OLTbOzNpmsCFGTwR8om",
     "price": 224.0,
     "image": "images/10 inches_0008_img2.jpg",
     "description": "A high-quality product: 10\" inches"
@@ -58,6 +66,7 @@
   {
     "id": 9,
     "name": "10\" inches",
+    "sku": "-OLTbOzNpmsCFGTwR8oo",
     "price": 224.0,
     "image": "images/10 inches_0009_img2.jpg",
     "description": "A high-quality product: 10\" inches"
@@ -65,6 +74,7 @@
   {
     "id": 10,
     "name": "10.5\" inches",
+    "sku": "-OLTbOzNpmsCFGTwR8oq",
     "price": 231.0,
     "image": "images/10.5 inches_0010_img2.jpg",
     "description": "A high-quality product: 10.5\" inches"
@@ -72,6 +82,7 @@
   {
     "id": 11,
     "name": "10\" inches",
+    "sku": "-OLTbOzNpmsCFGTwR8os",
     "price": 189.0,
     "image": "images/10 inches_0011_img2.jpg",
     "description": "A high-quality product: 10\" inches"
@@ -79,6 +90,7 @@
   {
     "id": 12,
     "name": "9'' inches",
+    "sku": "-OLTbOzNpmsCFGTwR8ot",
     "price": 224.0,
     "image": "images/9'' inches_0012_img2.jpg",
     "description": "A high-quality product: 9'' inches"
@@ -86,6 +98,7 @@
   {
     "id": 13,
     "name": "H2.5'' D3.5''",
+    "sku": "-OLTbOzNpmsCFGTwR8ou",
     "price": 30.8,
     "image": "images/H2.5'' D3.5''_0013_img2.jpg",
     "description": "A high-quality product: H2.5'' D3.5''"
@@ -93,6 +106,7 @@
   {
     "id": 14,
     "name": "8'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXK3",
     "price": 109.2,
     "image": "images/8'' INCHES_0014_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -100,6 +114,7 @@
   {
     "id": 15,
     "name": "9.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXK5",
     "price": 133.0,
     "image": "images/9.5'' INCHES_0015_img2.jpg",
     "description": "A high-quality product: 9.5'' INCHES"
@@ -107,6 +122,7 @@
   {
     "id": 16,
     "name": "9'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXK7",
     "price": 133.0,
     "image": "images/9'' INCHES_0016_img2.jpg",
     "description": "A high-quality product: 9'' INCHES"
@@ -114,6 +130,7 @@
   {
     "id": 17,
     "name": "9.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXK8",
     "price": 133.0,
     "image": "images/9.5'' INCHES_0017_img2.jpg",
     "description": "A high-quality product: 9.5'' INCHES"
@@ -121,6 +138,7 @@
   {
     "id": 18,
     "name": "9.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKA",
     "price": 308.0,
     "image": "images/9.5'' INCHES_0018_img2.jpg",
     "description": "A high-quality product: 9.5'' INCHES"
@@ -128,6 +146,7 @@
   {
     "id": 19,
     "name": "10'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKC",
     "price": 245.0,
     "image": "images/10'' INCHES_0019_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -135,6 +154,7 @@
   {
     "id": 20,
     "name": "10'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKD",
     "price": 245.0,
     "image": "images/10'' INCHES_0020_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -142,6 +162,7 @@
   {
     "id": 21,
     "name": "10'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKE",
     "price": 245.0,
     "image": "images/10'' INCHES_0021_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -149,6 +170,7 @@
   {
     "id": 22,
     "name": "10'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKF",
     "price": 245.0,
     "image": "images/10'' INCHES_0022_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -156,6 +178,7 @@
   {
     "id": 23,
     "name": "10'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKG",
     "price": 245.0,
     "image": "images/10'' INCHES_0023_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -163,6 +186,7 @@
   {
     "id": 24,
     "name": "10'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKH",
     "price": 245.0,
     "image": "images/10'' INCHES_0024_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -170,6 +194,7 @@
   {
     "id": 25,
     "name": "10'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKI",
     "price": 245.0,
     "image": "images/10'' INCHES_0025_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -177,20 +202,15 @@
   {
     "id": 26,
     "name": "10'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKK",
     "price": 245.0,
     "image": "images/10'' INCHES_0026_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
   },
   {
-    "id": 27,
-    "name": "12'' INCHES",
-    "price": 235.2,
-    "image": "images/12'' INCHES_0027_img2.jpg",
-    "description": "A high-quality product: 12'' INCHES"
-  },
-  {
     "id": 28,
     "name": "14'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKM",
     "price": 294.0,
     "image": "images/14'' INCHES_0028_img2.jpg",
     "description": "A high-quality product: 14'' INCHES"
@@ -198,6 +218,7 @@
   {
     "id": 29,
     "name": "10'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKN",
     "price": 245.0,
     "image": "images/10'' INCHES_0029_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -205,6 +226,7 @@
   {
     "id": 30,
     "name": "13'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKO",
     "price": 294.0,
     "image": "images/13'' INCHES_0030_img2.jpg",
     "description": "A high-quality product: 13'' INCHES"
@@ -212,6 +234,7 @@
   {
     "id": 31,
     "name": "12'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKP",
     "price": 294.0,
     "image": "images/12'' INCHES_0031_img2.jpg",
     "description": "A high-quality product: 12'' INCHES"
@@ -219,6 +242,7 @@
   {
     "id": 32,
     "name": "14'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKQ",
     "price": 294.0,
     "image": "images/14'' INCHES_0032_img2.jpg",
     "description": "A high-quality product: 14'' INCHES"
@@ -226,6 +250,7 @@
   {
     "id": 33,
     "name": "H6.5'' D6.5''",
+    "sku": "-OK1aODHD61GrGKRKXKR",
     "price": 231.0,
     "image": "images/H6.5'' D6.5''_0033_img2.jpg",
     "description": "A high-quality product: H6.5'' D6.5''"
@@ -233,6 +258,7 @@
   {
     "id": 34,
     "name": "12'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKS",
     "price": 294.0,
     "image": "images/12'' INCHES_0034_img2.jpg",
     "description": "A high-quality product: 12'' INCHES"
@@ -240,6 +266,7 @@
   {
     "id": 35,
     "name": "15'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKT",
     "price": 441.0,
     "image": "images/15'' INCHES_0035_img2.jpg",
     "description": "A high-quality product: 15'' INCHES"
@@ -247,6 +274,7 @@
   {
     "id": 36,
     "name": "H4'' D5''",
+    "sku": "-OK1aODHD61GrGKRKXKU",
     "price": 77.0,
     "image": "images/H4'' D5''_0036_img2.jpg",
     "description": "A high-quality product: H4'' D5''"
@@ -254,6 +282,7 @@
   {
     "id": 37,
     "name": "H4'' D5''",
+    "sku": "-OK1aODHD61GrGKRKXKW",
     "price": 77.0,
     "image": "images/H4'' D5''_0037_img2.jpg",
     "description": "A high-quality product: H4'' D5''"
@@ -261,6 +290,7 @@
   {
     "id": 38,
     "name": "H4'' D5''",
+    "sku": "-OK1aODHD61GrGKRKXKX",
     "price": 77.0,
     "image": "images/H4'' D5''_0038_img2.jpg",
     "description": "A high-quality product: H4'' D5''"
@@ -268,6 +298,7 @@
   {
     "id": 39,
     "name": "H4'' D5''",
+    "sku": "-OK1aODHD61GrGKRKXKY",
     "price": 77.0,
     "image": "images/H4'' D5''_0039_img2.jpg",
     "description": "A high-quality product: H4'' D5''"
@@ -275,6 +306,7 @@
   {
     "id": 40,
     "name": "H4'' D5''",
+    "sku": "-OK1aODHD61GrGKRKXKZ",
     "price": 77.0,
     "image": "images/H4'' D5''_0040_img2.jpg",
     "description": "A high-quality product: H4'' D5''"
@@ -282,6 +314,7 @@
   {
     "id": 41,
     "name": "10.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXK_",
     "price": 259.0,
     "image": "images/10.5'' INCHES_0041_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -289,6 +322,7 @@
   {
     "id": 42,
     "name": "12'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKa",
     "price": 245.0,
     "image": "images/12'' INCHES_0042_img2.jpg",
     "description": "A high-quality product: 12'' INCHES"
@@ -296,6 +330,7 @@
   {
     "id": 43,
     "name": "10.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKc",
     "price": 252.0,
     "image": "images/10.5'' INCHES_0043_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -303,6 +338,7 @@
   {
     "id": 44,
     "name": "10.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKe",
     "price": 252.0,
     "image": "images/10.5'' INCHES_0044_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -310,6 +346,7 @@
   {
     "id": 45,
     "name": "10.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKf",
     "price": 252.0,
     "image": "images/10.5'' INCHES_0045_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -317,6 +354,7 @@
   {
     "id": 46,
     "name": "10.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKg",
     "price": 245.0,
     "image": "images/10.5'' INCHES_0046_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -324,6 +362,7 @@
   {
     "id": 47,
     "name": "10.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKh",
     "price": 245.0,
     "image": "images/10.5'' INCHES_0047_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -331,6 +370,7 @@
   {
     "id": 48,
     "name": "7'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKi",
     "price": 109.2,
     "image": "images/7'' INCHES_0048_img2.jpg",
     "description": "A high-quality product: 7'' INCHES"
@@ -338,6 +378,7 @@
   {
     "id": 49,
     "name": "10.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKj",
     "price": 245.0,
     "image": "images/10.5'' INCHES_0049_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -345,6 +386,7 @@
   {
     "id": 50,
     "name": "8.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKk",
     "price": 138.6,
     "image": "images/8.5'' INCHES_0050_img2.jpg",
     "description": "A high-quality product: 8.5'' INCHES"
@@ -352,6 +394,7 @@
   {
     "id": 51,
     "name": "10.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKl",
     "price": 245.0,
     "image": "images/10.5'' INCHES_0051_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -359,6 +402,7 @@
   {
     "id": 52,
     "name": "10.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKm",
     "price": 245.0,
     "image": "images/10.5'' INCHES_0052_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -366,6 +410,7 @@
   {
     "id": 53,
     "name": "8.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKn",
     "price": 138.6,
     "image": "images/8.5'' INCHES_0053_img2.jpg",
     "description": "A high-quality product: 8.5'' INCHES"
@@ -373,6 +418,7 @@
   {
     "id": 54,
     "name": "11'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKo",
     "price": 259.0,
     "image": "images/11'' INCHES_0054_img2.jpg",
     "description": "A high-quality product: 11'' INCHES"
@@ -380,6 +426,7 @@
   {
     "id": 55,
     "name": "10.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKp",
     "price": 245.0,
     "image": "images/10.5'' INCHES_0055_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -387,6 +434,7 @@
   {
     "id": 56,
     "name": "10.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKq",
     "price": 259.0,
     "image": "images/10.5'' INCHES_0056_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -394,6 +442,7 @@
   {
     "id": 57,
     "name": "12'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKr",
     "price": 259.0,
     "image": "images/12'' INCHES_0057_img2.jpg",
     "description": "A high-quality product: 12'' INCHES"
@@ -401,6 +450,7 @@
   {
     "id": 58,
     "name": "10.5'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKs",
     "price": 245.0,
     "image": "images/10.5'' INCHES_0058_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -408,6 +458,7 @@
   {
     "id": 59,
     "name": "11'' INCHES",
+    "sku": "-OK1aODHD61GrGKRKXKt",
     "price": 259.0,
     "image": "images/11'' INCHES_0059_img2.jpg",
     "description": "A high-quality product: 11'' INCHES"
@@ -415,6 +466,7 @@
   {
     "id": 60,
     "name": "7'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbC",
     "price": 109.2,
     "image": "images/7'' INCHES_0060_img2.jpg",
     "description": "A high-quality product: 7'' INCHES"
@@ -422,6 +474,7 @@
   {
     "id": 61,
     "name": "8'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbD",
     "price": 119.0,
     "image": "images/8'' INCHES_0061_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -429,6 +482,7 @@
   {
     "id": 62,
     "name": "8.5'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbE",
     "price": 133.0,
     "image": "images/8.5'' INCHES_0062_img2.jpg",
     "description": "A high-quality product: 8.5'' INCHES"
@@ -436,6 +490,7 @@
   {
     "id": 63,
     "name": "11.5'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbF",
     "price": 399.0,
     "image": "images/11.5'' INCHES_0063_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -443,6 +498,7 @@
   {
     "id": 64,
     "name": "7'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbH",
     "price": 119.0,
     "image": "images/7'' INCHES_0064_img2.jpg",
     "description": "A high-quality product: 7'' INCHES"
@@ -450,6 +506,7 @@
   {
     "id": 65,
     "name": "12'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbI",
     "price": 399.0,
     "image": "images/12'' INCHES_0065_img2.jpg",
     "description": "A high-quality product: 12'' INCHES"
@@ -457,6 +514,7 @@
   {
     "id": 66,
     "name": "16'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbK",
     "price": 448.0,
     "image": "images/16'' INCHES_0066_img2.jpg",
     "description": "A high-quality product: 16'' INCHES"
@@ -464,6 +522,7 @@
   {
     "id": 67,
     "name": "11.5'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbL",
     "price": 406.0,
     "image": "images/11.5'' INCHES_0067_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -471,6 +530,7 @@
   {
     "id": 68,
     "name": "13.5'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbM",
     "price": 406.0,
     "image": "images/13.5'' INCHES_0068_img2.jpg",
     "description": "A high-quality product: 13.5'' INCHES"
@@ -478,6 +538,7 @@
   {
     "id": 69,
     "name": "15.5'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbN",
     "price": 406.0,
     "image": "images/15.5'' INCHES_0069_img2.jpg",
     "description": "A high-quality product: 15.5'' INCHES"
@@ -485,6 +546,7 @@
   {
     "id": 70,
     "name": "13'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbO",
     "price": 448.0,
     "image": "images/13'' INCHES_0070_img2.jpg",
     "description": "A high-quality product: 13'' INCHES"
@@ -492,6 +554,7 @@
   {
     "id": 71,
     "name": "10'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbP",
     "price": 259.0,
     "image": "images/10'' INCHES_0071_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -499,6 +562,7 @@
   {
     "id": 72,
     "name": "15'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbQ",
     "price": 343.0,
     "image": "images/15'' INCHES_0072_img2.jpg",
     "description": "A high-quality product: 15'' INCHES"
@@ -506,6 +570,7 @@
   {
     "id": 73,
     "name": "13'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbR",
     "price": 455.0,
     "image": "images/13'' INCHES_0073_img2.jpg",
     "description": "A high-quality product: 13'' INCHES"
@@ -513,6 +578,7 @@
   {
     "id": 74,
     "name": "15'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbS",
     "price": 294.0,
     "image": "images/15'' INCHES_0074_img2.jpg",
     "description": "A high-quality product: 15'' INCHES"
@@ -520,6 +586,7 @@
   {
     "id": 75,
     "name": "15'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbT",
     "price": 294.0,
     "image": "images/15'' INCHES_0075_img2.jpg",
     "description": "A high-quality product: 15'' INCHES"
@@ -527,6 +594,7 @@
   {
     "id": 76,
     "name": "4'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbU",
     "price": 91.0,
     "image": "images/4'' INCHES_0076_img2.jpg",
     "description": "A high-quality product: 4'' INCHES"
@@ -534,6 +602,7 @@
   {
     "id": 77,
     "name": "3.5'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbV",
     "price": 67.2,
     "image": "images/3.5'' INCHES_0077_img2.jpg",
     "description": "A high-quality product: 3.5'' INCHES"
@@ -541,6 +610,7 @@
   {
     "id": 78,
     "name": "14'' INCHES",
+    "sku": "-OK1aODIx01UCim4udbW",
     "price": 294.0,
     "image": "images/14'' INCHES_0078_img2.jpg",
     "description": "A high-quality product: 14'' INCHES"
@@ -548,6 +618,7 @@
   {
     "id": 79,
     "name": "15.5'' INCHES",
+    "sku": "-OI5eIC9KwqNoT4FvYay",
     "price": 399.0,
     "image": "images/15.5'' INCHES_0079_img2.jpg",
     "description": "A high-quality product: 15.5'' INCHES"
@@ -555,6 +626,7 @@
   {
     "id": 80,
     "name": "9'' INCHES",
+    "sku": "-OI5eIC9KwqNoT4FvYb-",
     "price": 294.0,
     "image": "images/9'' INCHES_0080_img2.jpg",
     "description": "A high-quality product: 9'' INCHES"
@@ -562,6 +634,7 @@
   {
     "id": 81,
     "name": "H4'' D5''",
+    "sku": "-OI5eIC9KwqNoT4FvYb0",
     "price": 81.2,
     "image": "images/H4'' D5''_0081_img2.jpg",
     "description": "A high-quality product: H4'' D5''"
@@ -569,6 +642,7 @@
   {
     "id": 82,
     "name": "12'' INCHES",
+    "sku": "-OI5eIC9KwqNoT4FvYb1",
     "price": 259.0,
     "image": "images/12'' INCHES_0082_img2.jpg",
     "description": "A high-quality product: 12'' INCHES"
@@ -576,6 +650,7 @@
   {
     "id": 83,
     "name": "H2.5'' D3.5''",
+    "sku": "-OI5eIC9KwqNoT4FvYb3",
     "price": 39.2,
     "image": "images/H2.5'' D3.5''_0083_img2.jpg",
     "description": "A high-quality product: H2.5'' D3.5''"
@@ -583,6 +658,7 @@
   {
     "id": 84,
     "name": "8'' INCHES",
+    "sku": "-OI5eIC9KwqNoT4FvYb4",
     "price": 221.2,
     "image": "images/8'' INCHES_0084_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -590,6 +666,7 @@
   {
     "id": 85,
     "name": "12'' INCHES",
+    "sku": "-OI5eIC9KwqNoT4FvYb5",
     "price": 238.0,
     "image": "images/12'' INCHES_0085_img2.jpg",
     "description": "A high-quality product: 12'' INCHES"
@@ -597,6 +674,7 @@
   {
     "id": 86,
     "name": "14'' INCHES",
+    "sku": "-OI5eIC9KwqNoT4FvYb6",
     "price": 399.0,
     "image": "images/14'' INCHES_0086_img2.jpg",
     "description": "A high-quality product: 14'' INCHES"
@@ -604,6 +682,7 @@
   {
     "id": 87,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjED",
     "price": 294.0,
     "image": "images/11.5'' INCHES_0087_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -611,6 +690,7 @@
   {
     "id": 88,
     "name": "15'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEF",
     "price": 399.0,
     "image": "images/15'' INCHES_0088_img2.jpg",
     "description": "A high-quality product: 15'' INCHES"
@@ -618,6 +698,7 @@
   {
     "id": 89,
     "name": "10'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEH",
     "price": 294.0,
     "image": "images/10'' INCHES_0089_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -625,6 +706,7 @@
   {
     "id": 90,
     "name": "12.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEJ",
     "price": 455.0,
     "image": "images/12.5'' INCHES_0090_img2.jpg",
     "description": "A high-quality product: 12.5'' INCHES"
@@ -632,6 +714,7 @@
   {
     "id": 91,
     "name": "10'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEK",
     "price": 294.0,
     "image": "images/10'' INCHES_0091_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -639,6 +722,7 @@
   {
     "id": 92,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEL",
     "price": 329.0,
     "image": "images/10.5'' INCHES_0092_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -646,6 +730,7 @@
   {
     "id": 93,
     "name": "11'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEO",
     "price": 294.0,
     "image": "images/11'' INCHES_0093_img2.jpg",
     "description": "A high-quality product: 11'' INCHES"
@@ -653,6 +738,7 @@
   {
     "id": 94,
     "name": "12'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEP",
     "price": 294.0,
     "image": "images/12'' INCHES_0094_img2.jpg",
     "description": "A high-quality product: 12'' INCHES"
@@ -660,6 +746,7 @@
   {
     "id": 95,
     "name": "12'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEQ",
     "price": 221.2,
     "image": "images/12'' INCHES_0095_img2.jpg",
     "description": "A high-quality product: 12'' INCHES"
@@ -667,6 +754,7 @@
   {
     "id": 96,
     "name": "9.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjET",
     "price": 259.0,
     "image": "images/9.5'' INCHES_0096_img2.jpg",
     "description": "A high-quality product: 9.5'' INCHES"
@@ -674,6 +762,7 @@
   {
     "id": 97,
     "name": "8'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEU",
     "price": 221.2,
     "image": "images/8'' INCHES_0097_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -681,6 +770,7 @@
   {
     "id": 98,
     "name": "7'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEW",
     "price": 165.2,
     "image": "images/7'' INCHES_0098_img2.jpg",
     "description": "A high-quality product: 7'' INCHES"
@@ -688,6 +778,7 @@
   {
     "id": 99,
     "name": "7.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEX",
     "price": 165.2,
     "image": "images/7.5'' INCHES_0099_img2.jpg",
     "description": "A high-quality product: 7.5'' INCHES"
@@ -695,6 +786,7 @@
   {
     "id": 100,
     "name": "12'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEY",
     "price": 273.0,
     "image": "images/12'' INCHES_0100_img2.jpg",
     "description": "A high-quality product: 12'' INCHES"
@@ -702,6 +794,7 @@
   {
     "id": 101,
     "name": "9'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEZ",
     "price": 128.8,
     "image": "images/9'' INCHES_0101_img2.jpg",
     "description": "A high-quality product: 9'' INCHES"
@@ -709,6 +802,7 @@
   {
     "id": 102,
     "name": "10'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjE_",
     "price": 221.2,
     "image": "images/10'' INCHES_0102_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -716,6 +810,7 @@
   {
     "id": 103,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEa",
     "price": 221.2,
     "image": "images/10.5'' INCHES_0103_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -723,6 +818,7 @@
   {
     "id": 104,
     "name": "10'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEb",
     "price": 221.2,
     "image": "images/10'' INCHES_0104_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -730,6 +826,7 @@
   {
     "id": 105,
     "name": "14'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEc",
     "price": 294.0,
     "image": "images/14'' INCHES_0105_img2.jpg",
     "description": "A high-quality product: 14'' INCHES"
@@ -737,6 +834,7 @@
   {
     "id": 106,
     "name": "10'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEd",
     "price": 221.2,
     "image": "images/10'' INCHES_0106_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -744,6 +842,7 @@
   {
     "id": 107,
     "name": "5.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEe",
     "price": 91.0,
     "image": "images/5.5'' INCHES_0107_img2.jpg",
     "description": "A high-quality product: 5.5'' INCHES"
@@ -751,6 +850,7 @@
   {
     "id": 108,
     "name": "6'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEf",
     "price": 138.6,
     "image": "images/6'' INCHES_0108_img2.jpg",
     "description": "A high-quality product: 6'' INCHES"
@@ -758,6 +858,7 @@
   {
     "id": 109,
     "name": "6'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEg",
     "price": 165.2,
     "image": "images/6'' INCHES_0109_img2.jpg",
     "description": "A high-quality product: 6'' INCHES"
@@ -765,6 +866,7 @@
   {
     "id": 110,
     "name": "6'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEh",
     "price": 165.2,
     "image": "images/6'' INCHES_0110_img2.jpg",
     "description": "A high-quality product: 6'' INCHES"
@@ -772,6 +874,7 @@
   {
     "id": 111,
     "name": "7.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEi",
     "price": 259.0,
     "image": "images/7.5'' INCHES_0111_img2.jpg",
     "description": "A high-quality product: 7.5'' INCHES"
@@ -779,6 +882,7 @@
   {
     "id": 112,
     "name": "8'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEj",
     "price": 259.0,
     "image": "images/8'' INCHES_0112_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -786,6 +890,7 @@
   {
     "id": 113,
     "name": "5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEk",
     "price": 208.6,
     "image": "images/5'' INCHES_0113_img2.jpg",
     "description": "A high-quality product: 5'' INCHES"
@@ -793,6 +898,7 @@
   {
     "id": 114,
     "name": "11'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEm",
     "price": 221.2,
     "image": "images/11'' INCHES_0114_img2.jpg",
     "description": "A high-quality product: 11'' INCHES"
@@ -800,6 +906,7 @@
   {
     "id": 115,
     "name": "13.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEn",
     "price": 294.0,
     "image": "images/13.5'' INCHES_0115_img2.jpg",
     "description": "A high-quality product: 13.5'' INCHES"
@@ -807,6 +914,7 @@
   {
     "id": 116,
     "name": "12.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEo",
     "price": 259.0,
     "image": "images/12.5'' INCHES_0116_img2.jpg",
     "description": "A high-quality product: 12.5'' INCHES"
@@ -814,6 +922,7 @@
   {
     "id": 117,
     "name": "15'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEp",
     "price": 329.0,
     "image": "images/15'' INCHES_0117_img2.jpg",
     "description": "A high-quality product: 15'' INCHES"
@@ -821,6 +930,7 @@
   {
     "id": 118,
     "name": "13.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEq",
     "price": 294.0,
     "image": "images/13.5'' INCHES_0118_img2.jpg",
     "description": "A high-quality product: 13.5'' INCHES"
@@ -828,6 +938,7 @@
   {
     "id": 119,
     "name": "13'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEr",
     "price": 259.0,
     "image": "images/13'' INCHES_0119_img2.jpg",
     "description": "A high-quality product: 13'' INCHES"
@@ -835,6 +946,7 @@
   {
     "id": 120,
     "name": "13'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEs",
     "price": 259.0,
     "image": "images/13'' INCHES_0120_img2.jpg",
     "description": "A high-quality product: 13'' INCHES"
@@ -842,6 +954,7 @@
   {
     "id": 121,
     "name": "11'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEt",
     "price": 238.0,
     "image": "images/11'' INCHES_0121_img2.jpg",
     "description": "A high-quality product: 11'' INCHES"
@@ -849,6 +962,7 @@
   {
     "id": 122,
     "name": "8.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEu",
     "price": 154.0,
     "image": "images/8.5'' INCHES_0122_img2.jpg",
     "description": "A high-quality product: 8.5'' INCHES"
@@ -856,6 +970,7 @@
   {
     "id": 123,
     "name": "9.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEv",
     "price": 165.2,
     "image": "images/9.5'' INCHES_0123_img2.jpg",
     "description": "A high-quality product: 9.5'' INCHES"
@@ -863,6 +978,7 @@
   {
     "id": 124,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEw",
     "price": 294.0,
     "image": "images/11.5'' INCHES_0124_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -870,6 +986,7 @@
   {
     "id": 125,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEx",
     "price": 238.0,
     "image": "images/11.5'' INCHES_0125_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -877,6 +994,7 @@
   {
     "id": 126,
     "name": "12'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEy",
     "price": 273.0,
     "image": "images/12'' INCHES_0126_img2.jpg",
     "description": "A high-quality product: 12'' INCHES"
@@ -884,6 +1002,7 @@
   {
     "id": 127,
     "name": "12.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjEz",
     "price": 399.0,
     "image": "images/12.5'' INCHES_0127_img2.jpg",
     "description": "A high-quality product: 12.5'' INCHES"
@@ -891,6 +1010,7 @@
   {
     "id": 128,
     "name": "10'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjF-",
     "price": 238.0,
     "image": "images/10'' INCHES_0128_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -898,6 +1018,7 @@
   {
     "id": 129,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjF0",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0129_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -905,6 +1026,7 @@
   {
     "id": 130,
     "name": "9.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjF1",
     "price": 165.2,
     "image": "images/9.5'' INCHES_0130_img2.jpg",
     "description": "A high-quality product: 9.5'' INCHES"
@@ -912,6 +1034,7 @@
   {
     "id": 131,
     "name": "6.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjF2",
     "price": 138.6,
     "image": "images/6.5'' INCHES_0131_img2.jpg",
     "description": "A high-quality product: 6.5'' INCHES"
@@ -919,6 +1042,7 @@
   {
     "id": 132,
     "name": "8'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjF3",
     "price": 259.0,
     "image": "images/8'' INCHES_0132_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -926,6 +1050,7 @@
   {
     "id": 133,
     "name": "7.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjF4",
     "price": 259.0,
     "image": "images/7.5'' INCHES_0133_img2.jpg",
     "description": "A high-quality product: 7.5'' INCHES"
@@ -933,6 +1058,7 @@
   {
     "id": 134,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjF5",
     "price": 329.0,
     "image": "images/10.5'' INCHES_0134_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -940,6 +1066,7 @@
   {
     "id": 135,
     "name": "8'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjF6",
     "price": 221.2,
     "image": "images/8'' INCHES_0135_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -947,6 +1074,7 @@
   {
     "id": 136,
     "name": "9'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjF7",
     "price": 259.0,
     "image": "images/9'' INCHES_0136_img2.jpg",
     "description": "A high-quality product: 9'' INCHES"
@@ -954,6 +1082,7 @@
   {
     "id": 137,
     "name": "7'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjF8",
     "price": 165.2,
     "image": "images/7'' INCHES_0137_img2.jpg",
     "description": "A high-quality product: 7'' INCHES"
@@ -961,6 +1090,7 @@
   {
     "id": 138,
     "name": "5.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjF9",
     "price": 109.2,
     "image": "images/5.5'' INCHES_0138_img2.jpg",
     "description": "A high-quality product: 5.5'' INCHES"
@@ -968,6 +1098,7 @@
   {
     "id": 139,
     "name": "5.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjFA",
     "price": 109.2,
     "image": "images/5.5'' INCHES_0139_img2.jpg",
     "description": "A high-quality product: 5.5'' INCHES"
@@ -975,6 +1106,7 @@
   {
     "id": 140,
     "name": "4.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjFB",
     "price": 77.0,
     "image": "images/4.5'' INCHES_0140_img2.jpg",
     "description": "A high-quality product: 4.5'' INCHES"
@@ -982,6 +1114,7 @@
   {
     "id": 141,
     "name": "10'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjFC",
     "price": 221.2,
     "image": "images/10'' INCHES_0141_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -989,6 +1122,7 @@
   {
     "id": 142,
     "name": "7.5'' INCHES",
+    "sku": "-OI5eICAx1aAF6PiDjFD",
     "price": 165.2,
     "image": "images/7.5'' INCHES_0142_img2.jpg",
     "description": "A high-quality product: 7.5'' INCHES"
@@ -996,6 +1130,7 @@
   {
     "id": 143,
     "name": "12'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOj",
     "price": 221.2,
     "image": "images/12'' INCHES_0143_img2.jpg",
     "description": "A high-quality product: 12'' INCHES"
@@ -1003,6 +1138,7 @@
   {
     "id": 144,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOk",
     "price": 259.0,
     "image": "images/10.5'' INCHES_0144_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1010,6 +1146,7 @@
   {
     "id": 145,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOl",
     "price": 278.6,
     "image": "images/11.5'' INCHES_0145_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -1017,6 +1154,7 @@
   {
     "id": 146,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOn",
     "price": 259.0,
     "image": "images/11.5'' INCHES_0146_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -1024,6 +1162,7 @@
   {
     "id": 147,
     "name": "8'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOo",
     "price": 224.0,
     "image": "images/8'' INCHES_0147_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -1031,6 +1170,7 @@
   {
     "id": 148,
     "name": "12'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOp",
     "price": 259.0,
     "image": "images/12'' INCHES_0148_img2.jpg",
     "description": "A high-quality product: 12'' INCHES"
@@ -1038,6 +1178,7 @@
   {
     "id": 149,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOq",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0149_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1045,6 +1186,7 @@
   {
     "id": 150,
     "name": "14'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOr",
     "price": 329.0,
     "image": "images/14'' INCHES_0150_img2.jpg",
     "description": "A high-quality product: 14'' INCHES"
@@ -1052,6 +1194,7 @@
   {
     "id": 151,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOs",
     "price": 259.0,
     "image": "images/11.5'' INCHES_0151_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -1059,6 +1202,7 @@
   {
     "id": 152,
     "name": "10'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOt",
     "price": 259.0,
     "image": "images/10'' INCHES_0152_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -1066,6 +1210,7 @@
   {
     "id": 153,
     "name": "10'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOu",
     "price": 259.0,
     "image": "images/10'' INCHES_0153_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -1073,6 +1218,7 @@
   {
     "id": 154,
     "name": "8'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOv",
     "price": 224.0,
     "image": "images/8'' INCHES_0154_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -1080,6 +1226,7 @@
   {
     "id": 155,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOw",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0155_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1087,6 +1234,7 @@
   {
     "id": 156,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOx",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0156_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1094,6 +1242,7 @@
   {
     "id": 157,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOy",
     "price": 238.0,
     "image": "images/11.5'' INCHES_0157_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -1101,6 +1250,7 @@
   {
     "id": 158,
     "name": "6.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltOz",
     "price": 112.0,
     "image": "images/6.5'' INCHES_0158_img2.jpg",
     "description": "A high-quality product: 6.5'' INCHES"
@@ -1108,6 +1258,7 @@
   {
     "id": 159,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltP-",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0159_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1115,6 +1266,7 @@
   {
     "id": 160,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltP0",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0160_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1122,6 +1274,7 @@
   {
     "id": 161,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltP1",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0161_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1129,6 +1282,7 @@
   {
     "id": 162,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltP2",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0162_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1136,6 +1290,7 @@
   {
     "id": 163,
     "name": "12.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltP3",
     "price": 441.0,
     "image": "images/12.5'' INCHES_0163_img2.jpg",
     "description": "A high-quality product: 12.5'' INCHES"
@@ -1143,6 +1298,7 @@
   {
     "id": 164,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eICBEx294GVPltP4",
     "price": 259.0,
     "image": "images/10.5'' INCHES_0164_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1150,6 +1306,7 @@
   {
     "id": 165,
     "name": "6.5'' INCHES",
+    "sku": "-OI5eIDNp9EJibv7RWc2",
     "price": 112.0,
     "image": "images/6.5'' INCHES_0165_img2.jpg",
     "description": "A high-quality product: 6.5'' INCHES"
@@ -1157,6 +1314,7 @@
   {
     "id": 166,
     "name": "7.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkkq",
     "price": 112.0,
     "image": "images/7.5'' INCHES_0166_img2.jpg",
     "description": "A high-quality product: 7.5'' INCHES"
@@ -1164,6 +1322,7 @@
   {
     "id": 167,
     "name": "8'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkkr",
     "price": 133.0,
     "image": "images/8'' INCHES_0167_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -1171,6 +1330,7 @@
   {
     "id": 168,
     "name": "8'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkks",
     "price": 133.0,
     "image": "images/8'' INCHES_0168_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -1178,6 +1338,7 @@
   {
     "id": 169,
     "name": "8'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkkt",
     "price": 133.0,
     "image": "images/8'' INCHES_0169_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -1185,6 +1346,7 @@
   {
     "id": 170,
     "name": "8'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkku",
     "price": 133.0,
     "image": "images/8'' INCHES_0170_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -1192,6 +1354,7 @@
   {
     "id": 171,
     "name": "9.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkkv",
     "price": 259.0,
     "image": "images/9.5'' INCHES_0171_img2.jpg",
     "description": "A high-quality product: 9.5'' INCHES"
@@ -1199,6 +1362,7 @@
   {
     "id": 172,
     "name": "9'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkkw",
     "price": 294.0,
     "image": "images/9'' INCHES_0172_img2.jpg",
     "description": "A high-quality product: 9'' INCHES"
@@ -1206,6 +1370,7 @@
   {
     "id": 173,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkky",
     "price": 294.0,
     "image": "images/11.5'' INCHES_0173_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -1213,20 +1378,15 @@
   {
     "id": 174,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkkz",
     "price": 294.0,
     "image": "images/11.5'' INCHES_0174_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
   },
   {
-    "id": 175,
-    "name": "DNF Ceramics logo",
-    "price": 0.0,
-    "image": "images/DNF Ceramics logo_0175_img2.jpg",
-    "description": "A high-quality product: DNF Ceramics logo"
-  },
-  {
     "id": 176,
     "name": "11'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkl0",
     "price": 259.0,
     "image": "images/11'' INCHES_0176_img2.jpg",
     "description": "A high-quality product: 11'' INCHES"
@@ -1234,6 +1394,7 @@
   {
     "id": 177,
     "name": "11'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkl2",
     "price": 294.0,
     "image": "images/11'' INCHES_0177_img2.jpg",
     "description": "A high-quality product: 11'' INCHES"
@@ -1241,6 +1402,7 @@
   {
     "id": 178,
     "name": "8'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkl3",
     "price": 259.0,
     "image": "images/8'' INCHES_0178_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -1248,6 +1410,7 @@
   {
     "id": 179,
     "name": "8'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkl4",
     "price": 112.0,
     "image": "images/8'' INCHES_0179_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -1255,6 +1418,7 @@
   {
     "id": 180,
     "name": "6.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkl5",
     "price": 112.0,
     "image": "images/6.5'' INCHES_0180_img2.jpg",
     "description": "A high-quality product: 6.5'' INCHES"
@@ -1262,20 +1426,15 @@
   {
     "id": 181,
     "name": "12'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkl6",
     "price": 259.0,
     "image": "images/12'' INCHES_0181_img2.jpg",
     "description": "A high-quality product: 12'' INCHES"
   },
   {
-    "id": 182,
-    "name": "DNF Ceramics logo",
-    "price": 0.0,
-    "image": "images/DNF Ceramics logo_0182_img2.jpg",
-    "description": "A high-quality product: DNF Ceramics logo"
-  },
-  {
     "id": 183,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkl8",
     "price": 294.0,
     "image": "images/11.5'' INCHES_0183_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -1283,6 +1442,7 @@
   {
     "id": 184,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkl9",
     "price": 259.0,
     "image": "images/11.5'' INCHES_0184_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -1290,6 +1450,7 @@
   {
     "id": 185,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklA",
     "price": 259.0,
     "image": "images/10.5'' INCHES_0185_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1297,6 +1458,7 @@
   {
     "id": 186,
     "name": "10'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklC",
     "price": 189.0,
     "image": "images/10'' INCHES_0186_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -1304,6 +1466,7 @@
   {
     "id": 187,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklE",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0187_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1311,6 +1474,7 @@
   {
     "id": 188,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklF",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0188_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1318,6 +1482,7 @@
   {
     "id": 189,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklG",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0189_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1325,6 +1490,7 @@
   {
     "id": 190,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklH",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0190_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1332,6 +1498,7 @@
   {
     "id": 191,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklI",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0191_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1339,6 +1506,7 @@
   {
     "id": 192,
     "name": "10'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklJ",
     "price": 294.0,
     "image": "images/10'' INCHES_0192_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -1346,6 +1514,7 @@
   {
     "id": 193,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklK",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0193_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1353,6 +1522,7 @@
   {
     "id": 194,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklL",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0194_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1360,6 +1530,7 @@
   {
     "id": 195,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklM",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0195_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1367,6 +1538,7 @@
   {
     "id": 196,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklN",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0196_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1374,6 +1546,7 @@
   {
     "id": 197,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklO",
     "price": 238.0,
     "image": "images/10.5'' INCHES_0197_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1381,6 +1554,7 @@
   {
     "id": 198,
     "name": "10'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklP",
     "price": 189.0,
     "image": "images/10'' INCHES_0198_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -1388,6 +1562,7 @@
   {
     "id": 199,
     "name": "14'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklQ",
     "price": 329.0,
     "image": "images/14'' INCHES_0199_img2.jpg",
     "description": "A high-quality product: 14'' INCHES"
@@ -1395,6 +1570,7 @@
   {
     "id": 200,
     "name": "H3'' D4''",
+    "sku": "-OI5eIDOJX8JrI0uNklR",
     "price": 63.0,
     "image": "images/H3'' D4''_0200_img2.jpg",
     "description": "A high-quality product: H3'' D4''"
@@ -1402,6 +1578,7 @@
   {
     "id": 201,
     "name": "14'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklS",
     "price": 329.0,
     "image": "images/14'' INCHES_0201_img2.jpg",
     "description": "A high-quality product: 14'' INCHES"
@@ -1409,6 +1586,7 @@
   {
     "id": 202,
     "name": "9.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklT",
     "price": 294.0,
     "image": "images/9.5'' INCHES_0202_img2.jpg",
     "description": "A high-quality product: 9.5'' INCHES"
@@ -1416,6 +1594,7 @@
   {
     "id": 203,
     "name": "10'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklU",
     "price": 294.0,
     "image": "images/10'' INCHES_0203_img2.jpg",
     "description": "A high-quality product: 10'' INCHES"
@@ -1423,6 +1602,7 @@
   {
     "id": 204,
     "name": "12.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklV",
     "price": 399.0,
     "image": "images/12.5'' INCHES_0204_img2.jpg",
     "description": "A high-quality product: 12.5'' INCHES"
@@ -1430,6 +1610,7 @@
   {
     "id": 205,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklX",
     "price": 294.0,
     "image": "images/11.5'' INCHES_0205_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -1437,6 +1618,7 @@
   {
     "id": 206,
     "name": "9'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklZ",
     "price": 168.0,
     "image": "images/9'' INCHES_0206_img2.jpg",
     "description": "A high-quality product: 9'' INCHES"
@@ -1444,6 +1626,7 @@
   {
     "id": 207,
     "name": "9'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkl_",
     "price": 168.0,
     "image": "images/9'' INCHES_0207_img2.jpg",
     "description": "A high-quality product: 9'' INCHES"
@@ -1451,6 +1634,7 @@
   {
     "id": 208,
     "name": "8'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkla",
     "price": 133.0,
     "image": "images/8'' INCHES_0208_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -1458,6 +1642,7 @@
   {
     "id": 209,
     "name": "8'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklb",
     "price": 133.0,
     "image": "images/8'' INCHES_0209_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -1465,6 +1650,7 @@
   {
     "id": 210,
     "name": "8'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklc",
     "price": 133.0,
     "image": "images/8'' INCHES_0210_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -1472,6 +1658,7 @@
   {
     "id": 211,
     "name": "9.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkld",
     "price": 406.0,
     "image": "images/9.5'' INCHES_0211_img2.jpg",
     "description": "A high-quality product: 9.5'' INCHES"
@@ -1479,6 +1666,7 @@
   {
     "id": 212,
     "name": "8.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklf",
     "price": 329.0,
     "image": "images/8.5'' INCHES_0212_img2.jpg",
     "description": "A high-quality product: 8.5'' INCHES"
@@ -1486,6 +1674,7 @@
   {
     "id": 213,
     "name": "6 INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklh",
     "price": 168.0,
     "image": "images/6 INCHES_0213_img2.jpg",
     "description": "A high-quality product: 6 INCHES"
@@ -1493,6 +1682,7 @@
   {
     "id": 214,
     "name": "6 INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNkli",
     "price": 259.0,
     "image": "images/6 INCHES_0214_img2.jpg",
     "description": "A high-quality product: 6 INCHES"
@@ -1500,6 +1690,7 @@
   {
     "id": 215,
     "name": "6.5'' INCHES",
+    "sku": "-OI5eIDOJX8JrI0uNklj",
     "price": 138.6,
     "image": "images/6.5'' INCHES_0215_img2.jpg",
     "description": "A high-quality product: 6.5'' INCHES"
@@ -1507,6 +1698,7 @@
   {
     "id": 216,
     "name": "6.5'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70W",
     "price": 138.6,
     "image": "images/6.5'' INCHES_0216_img2.jpg",
     "description": "A high-quality product: 6.5'' INCHES"
@@ -1514,6 +1706,7 @@
   {
     "id": 217,
     "name": "5'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70Y",
     "price": 84.0,
     "image": "images/5'' INCHES_0217_img2.jpg",
     "description": "A high-quality product: 5'' INCHES"
@@ -1521,6 +1714,7 @@
   {
     "id": 218,
     "name": "5'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70_",
     "price": 84.0,
     "image": "images/5'' INCHES_0218_img2.jpg",
     "description": "A high-quality product: 5'' INCHES"
@@ -1528,6 +1722,7 @@
   {
     "id": 219,
     "name": "4.5'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70a",
     "price": 84.0,
     "image": "images/4.5'' INCHES_0219_img2.jpg",
     "description": "A high-quality product: 4.5'' INCHES"
@@ -1535,6 +1730,7 @@
   {
     "id": 220,
     "name": "4.5'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70b",
     "price": 84.0,
     "image": "images/4.5'' INCHES_0220_img2.jpg",
     "description": "A high-quality product: 4.5'' INCHES"
@@ -1542,6 +1738,7 @@
   {
     "id": 221,
     "name": "4.5'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70c",
     "price": 84.0,
     "image": "images/4.5'' INCHES_0221_img2.jpg",
     "description": "A high-quality product: 4.5'' INCHES"
@@ -1549,6 +1746,7 @@
   {
     "id": 222,
     "name": "4.5'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70f",
     "price": 84.0,
     "image": "images/4.5'' INCHES_0222_img2.jpg",
     "description": "A high-quality product: 4.5'' INCHES"
@@ -1556,6 +1754,7 @@
   {
     "id": 223,
     "name": "4.5'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70g",
     "price": 84.0,
     "image": "images/4.5'' INCHES_0223_img2.jpg",
     "description": "A high-quality product: 4.5'' INCHES"
@@ -1563,6 +1762,7 @@
   {
     "id": 224,
     "name": "4'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70h",
     "price": 77.0,
     "image": "images/4'' INCHES_0224_img2.jpg",
     "description": "A high-quality product: 4'' INCHES"
@@ -1570,6 +1770,7 @@
   {
     "id": 225,
     "name": "4'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70i",
     "price": 77.0,
     "image": "images/4'' INCHES_0225_img2.jpg",
     "description": "A high-quality product: 4'' INCHES"
@@ -1577,6 +1778,7 @@
   {
     "id": 226,
     "name": "4'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70j",
     "price": 77.0,
     "image": "images/4'' INCHES_0226_img2.jpg",
     "description": "A high-quality product: 4'' INCHES"
@@ -1584,6 +1786,7 @@
   {
     "id": 227,
     "name": "4'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70k",
     "price": 77.0,
     "image": "images/4'' INCHES_0227_img2.jpg",
     "description": "A high-quality product: 4'' INCHES"
@@ -1591,6 +1794,7 @@
   {
     "id": 228,
     "name": "4'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70l",
     "price": 58.8,
     "image": "images/4'' INCHES_0228_img2.jpg",
     "description": "A high-quality product: 4'' INCHES"
@@ -1598,6 +1802,7 @@
   {
     "id": 229,
     "name": "3.5'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70m",
     "price": 58.8,
     "image": "images/3.5'' INCHES_0229_img2.jpg",
     "description": "A high-quality product: 3.5'' INCHES"
@@ -1605,6 +1810,7 @@
   {
     "id": 230,
     "name": "3'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br70n",
     "price": 44.8,
     "image": "images/3'' INCHES_0230_img2.jpg",
     "description": "A high-quality product: 3'' INCHES"
@@ -1612,6 +1818,7 @@
   {
     "id": 231,
     "name": "H3.5'' D4.5''",
+    "sku": "-OI5eIDPUMcpw-5br70q",
     "price": 91.0,
     "image": "images/H3.5'' D4.5''_0231_img2.jpg",
     "description": "A high-quality product: H3.5'' D4.5''"
@@ -1619,6 +1826,7 @@
   {
     "id": 232,
     "name": "H3.5 D4''",
+    "sku": "-OI5eIDPUMcpw-5br70s",
     "price": 58.8,
     "image": "images/H3.5 D4''_0232_img2.jpg",
     "description": "A high-quality product: H3.5 D4''"
@@ -1626,6 +1834,7 @@
   {
     "id": 233,
     "name": "H3.5 D4''",
+    "sku": "-OI5eIDPUMcpw-5br70t",
     "price": 58.8,
     "image": "images/H3.5 D4''_0233_img2.jpg",
     "description": "A high-quality product: H3.5 D4''"
@@ -1633,6 +1842,7 @@
   {
     "id": 234,
     "name": "H3.5'' D4.5''",
+    "sku": "-OI5eIDPUMcpw-5br70u",
     "price": 91.0,
     "image": "images/H3.5'' D4.5''_0234_img2.jpg",
     "description": "A high-quality product: H3.5'' D4.5''"
@@ -1640,6 +1850,7 @@
   {
     "id": 235,
     "name": "H3'' D5''",
+    "sku": "-OI5eIDPUMcpw-5br70y",
     "price": 58.8,
     "image": "images/H3'' D5''_0235_img2.jpg",
     "description": "A high-quality product: H3'' D5''"
@@ -1647,6 +1858,7 @@
   {
     "id": 236,
     "name": "H3'' D6''",
+    "sku": "-OI5eIDPUMcpw-5br711",
     "price": 109.2,
     "image": "images/H3'' D6''_0236_img2.jpg",
     "description": "A high-quality product: H3'' D6''"
@@ -1654,6 +1866,7 @@
   {
     "id": 237,
     "name": "H3'' D3.5''",
+    "sku": "-OI5eIDPUMcpw-5br712",
     "price": 77.0,
     "image": "images/H3'' D3.5''_0237_img2.jpg",
     "description": "A high-quality product: H3'' D3.5''"
@@ -1661,6 +1874,7 @@
   {
     "id": 238,
     "name": "9.5'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br713",
     "price": 109.2,
     "image": "images/9.5'' INCHES_0238_img2.jpg",
     "description": "A high-quality product: 9.5'' INCHES"
@@ -1668,6 +1882,7 @@
   {
     "id": 239,
     "name": "8'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br716",
     "price": 221.2,
     "image": "images/8'' INCHES_0239_img2.jpg",
     "description": "A high-quality product: 8'' INCHES"
@@ -1675,6 +1890,7 @@
   {
     "id": 240,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIDPUMcpw-5br717",
     "price": 259.0,
     "image": "images/10.5'' INCHES_0240_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1682,6 +1898,7 @@
   {
     "id": 241,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRQS",
     "price": 294.0,
     "image": "images/10.5'' INCHES_0241_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1689,6 +1906,7 @@
   {
     "id": 242,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRQT",
     "price": 259.0,
     "image": "images/10.5'' INCHES_0242_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1696,6 +1914,7 @@
   {
     "id": 243,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRQX",
     "price": 294.0,
     "image": "images/11.5'' INCHES_0243_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -1703,6 +1922,7 @@
   {
     "id": 244,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRQZ",
     "price": 294.0,
     "image": "images/11.5'' INCHES_0244_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -1710,6 +1930,7 @@
   {
     "id": 245,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRQ_",
     "price": 294.0,
     "image": "images/11.5'' INCHES_0245_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -1717,6 +1938,7 @@
   {
     "id": 246,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRQa",
     "price": 294.0,
     "image": "images/11.5'' INCHES_0246_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -1724,6 +1946,7 @@
   {
     "id": 247,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRQb",
     "price": 294.0,
     "image": "images/11.5'' INCHES_0247_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -1731,6 +1954,7 @@
   {
     "id": 248,
     "name": "11.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRQc",
     "price": 259.0,
     "image": "images/11.5'' INCHES_0248_img2.jpg",
     "description": "A high-quality product: 11.5'' INCHES"
@@ -1738,6 +1962,7 @@
   {
     "id": 249,
     "name": "9.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRQe",
     "price": 221.2,
     "image": "images/9.5'' INCHES_0249_img2.jpg",
     "description": "A high-quality product: 9.5'' INCHES"
@@ -1745,6 +1970,7 @@
   {
     "id": 250,
     "name": "8.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRQf",
     "price": 168.0,
     "image": "images/8.5'' INCHES_0250_img2.jpg",
     "description": "A high-quality product: 8.5'' INCHES"
@@ -1752,6 +1978,7 @@
   {
     "id": 251,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRQg",
     "price": 245.0,
     "image": "images/10.5'' INCHES_0251_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1759,6 +1986,7 @@
   {
     "id": 252,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRQh",
     "price": 245.0,
     "image": "images/10.5'' INCHES_0252_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1766,6 +1994,7 @@
   {
     "id": 253,
     "name": "9.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRQj",
     "price": 168.0,
     "image": "images/9.5'' INCHES_0253_img2.jpg",
     "description": "A high-quality product: 9.5'' INCHES"
@@ -1773,6 +2002,7 @@
   {
     "id": 254,
     "name": "6'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRQo",
     "price": 184.8,
     "image": "images/6'' INCHES_0254_img2.jpg",
     "description": "A high-quality product: 6'' INCHES"
@@ -1780,6 +2010,7 @@
   {
     "id": 255,
     "name": "H3'' D4''",
+    "sku": "-OI5eIEHIMu4MwR-aRQq",
     "price": 77.0,
     "image": "images/H3'' D4''_0255_img2.jpg",
     "description": "A high-quality product: H3'' D4''"
@@ -1787,6 +2018,7 @@
   {
     "id": 256,
     "name": "H3'' D6''",
+    "sku": "-OI5eIEHIMu4MwR-aRQs",
     "price": 138.6,
     "image": "images/H3'' D6''_0256_img2.jpg",
     "description": "A high-quality product: H3'' D6''"
@@ -1794,6 +2026,7 @@
   {
     "id": 257,
     "name": "H3'' D4''",
+    "sku": "-OI5eIEHIMu4MwR-aRQw",
     "price": 91.0,
     "image": "images/H3'' D4''_0257_img2.jpg",
     "description": "A high-quality product: H3'' D4''"
@@ -1801,6 +2034,7 @@
   {
     "id": 258,
     "name": "H3'' D4''",
+    "sku": "-OI5eIEHIMu4MwR-aRQx",
     "price": 67.2,
     "image": "images/H3'' D4''_0258_img2.jpg",
     "description": "A high-quality product: H3'' D4''"
@@ -1808,6 +2042,7 @@
   {
     "id": 259,
     "name": "H3'' D4''",
+    "sku": "-OI5eIEHIMu4MwR-aRR-",
     "price": 67.2,
     "image": "images/H3'' D4''_0259_img2.jpg",
     "description": "A high-quality product: H3'' D4''"
@@ -1815,6 +2050,7 @@
   {
     "id": 260,
     "name": "7.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRR0",
     "price": 259.0,
     "image": "images/7.5'' INCHES_0260_img2.jpg",
     "description": "A high-quality product: 7.5'' INCHES"
@@ -1822,6 +2058,7 @@
   {
     "id": 261,
     "name": "7.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRR1",
     "price": 259.0,
     "image": "images/7.5'' INCHES_0261_img2.jpg",
     "description": "A high-quality product: 7.5'' INCHES"
@@ -1829,6 +2066,7 @@
   {
     "id": 262,
     "name": "6'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRR3",
     "price": 221.2,
     "image": "images/6'' INCHES_0262_img2.jpg",
     "description": "A high-quality product: 6'' INCHES"
@@ -1836,6 +2074,7 @@
   {
     "id": 263,
     "name": "6'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRR5",
     "price": 221.2,
     "image": "images/6'' INCHES_0263_img2.jpg",
     "description": "A high-quality product: 6'' INCHES"
@@ -1843,6 +2082,7 @@
   {
     "id": 264,
     "name": "7.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRR8",
     "price": 119.0,
     "image": "images/7.5'' INCHES_0264_img2.jpg",
     "description": "A high-quality product: 7.5'' INCHES"
@@ -1850,6 +2090,7 @@
   {
     "id": 265,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRR9",
     "price": 259.0,
     "image": "images/10.5'' INCHES_0265_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1857,6 +2098,7 @@
   {
     "id": 266,
     "name": "10.5'' INCHES",
+    "sku": "-OI5eIEHIMu4MwR-aRRA",
     "price": 221.2,
     "image": "images/10.5'' INCHES_0266_img2.jpg",
     "description": "A high-quality product: 10.5'' INCHES"
@@ -1864,6 +2106,7 @@
   {
     "id": 267,
     "name": "H3'' D3''",
+    "sku": "-OI5eIEHIMu4MwR-aRRB",
     "price": 0.0,
     "image": "images/H3'' D3''_0267_img2.jpg",
     "description": "A high-quality product: H3'' D3''"
