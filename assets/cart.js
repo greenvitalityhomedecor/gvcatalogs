@@ -24,7 +24,7 @@ function saveCart(cart) {
  * @param {object} product - The product object to add.
  * @param {string} catalogName - The name of the catalog the product belongs to.
  */
-export function addToCart(product, catalogName) {
+export function addToCart(product, catalogName,catalogId) {
     // Ensure sku and catalogName are trimmed to prevent whitespace issues
     const trimmedSku = product.sku.trim();
     const trimmedCatalogName = catalogName.trim();
@@ -39,10 +39,10 @@ export function addToCart(product, catalogName) {
             catalogName: catalogName, // Store the catalog name here
             name: product.name,
             price: product.price,
-            image: product.image,
+            image: `../${catalogId}/${product.image}`,
             quantity: 1
         };
-    }
+    } 
     saveCart(cart);
 }
 

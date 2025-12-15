@@ -492,7 +492,7 @@
                         const productId = event.target.dataset.productId;
                         const product = allProducts.find(p => p.id.toString() === productId.toString());
                         if (product) {
-                            addToCart(product, 'Indoor ready stock');
+                            addToCart(product, 'Indoor ready stock',CATALOG_ID);
                             renderCart(document.getElementById('cart-display'));
                             updateCartItemCount();
                             
