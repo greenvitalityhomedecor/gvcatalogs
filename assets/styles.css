@@ -257,10 +257,12 @@
 
         .cart-item {
             display: flex;
-            align-items: center;
+            align-items: center; /* Align items vertically in the middle */
             padding: 15px 0;
             border-bottom: 1px solid #eee;
             transition: background-color 0.2s ease;
+            position: relative;
+            gap: 15px; /* Space between image and details */
         }
 
         .cart-item:last-child {
@@ -271,66 +273,209 @@
             background-color: #f9f9f9;
         }
 
-        .cart-item img {
-            width: 60px; /* Larger image */
-            height: 60px; /* Larger image */
+        .cart-item-image { /* Specific class for cart item image */
+            width: 80px; /* Larger image */
+            height: 80px; /* Larger image */
             object-fit: cover;
             border-radius: 8px; /* More rounded corners for images */
+            flex-shrink: 0; /* Prevent image from shrinking */
+            margin-right: 15px; /* Space between image and details */
+        }
+
+        .cart-item {
+            display: flex;
+            align-items: center; /* Align items vertically in the middle */
+            padding: 15px 0;
+            border-bottom: 1px solid #eee;
+            transition: background-color 0.2s ease;
+            position: relative;
+            gap: 15px; /* Space between image and details */
+        }
+
+        .cart-item-details-wrapper {
+            display: flex;
+            flex-grow: 1;
+            justify-content: space-between; /* Distribute space between info and actions */
+            align-items: center; /* Vertically align items in the wrapper */
+            flex-wrap: wrap; /* Allow wrapping on smaller screens if needed */
+        }
+
+        .cart-item-info {
+            display: flexbox;
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: center;
+            /* Allow info block to take available space, but not grow indefinitely */
+            flex-grow: 1;
+            /* Add some right margin to visually separate from action buttons */
             margin-right: 15px;
         }
 
-        .cart-item span {
-            font-size: 1em;
-            color: #333;
-        }
-
-        .cart-item .item-details {
-            flex-grow: 1;
+        .cart-item-actions-group {
             display: flex;
-            flex-direction: column;
-            align-items: flex-start;
+            align-items: center;
+            gap: 15px; /* Space between quantity controls, remove button, and subtotal */
+            flex-shrink: 0; /* Prevent this group from shrinking */
         }
 
-        .cart-item .item-name {
+        .cart-item-name {
             font-weight: 600;
+            color: #333;
+            font-size: 1.1em;
+            margin-bottom: 2px;
+        }
+
+        .cart-item-price-each {
+            font-size: 0.9em;
+            color: #666;
             margin-bottom: 5px;
         }
 
-        .cart-item .item-price {
-            font-weight: 400;
-            color: #666;
+        .cart-item-controls {
+            display: flex;
+            align-items: center;
+            gap: 15px; /* Space between controls */
+        }
+
+        .cart-item-subtotal {
+            font-weight: 700;
+            color: #4a4a4a;
+            font-size: 1.1em;
+            flex-shrink: 0; /* Prevent subtotal from shrinking */
+            min-width: 80px; /* Ensure consistent width for subtotal */
+            text-align: right; /* Align subtotal to the right */
         }
 
         .cart-item .quantity-controls {
             display: flex;
             align-items: center;
-            margin-left: auto; /* Push to the right */
+            flex-shrink: 0; /* Prevent quantity controls from shrinking */
         }
         
         .cart-item .quantity-controls button {
-            background-color: #f0f0f0; /* Light background for quantity buttons */
-            color: #555;
-            border: 1px solid #ddd;
-            padding: 5px 10px;
+            background-color: #f0f0f0; /* Light grey background */
+            color: #333; /* Darker text for contrast */
+            border: 1px solid #ccc; /* Subtle border */
+            padding: 5px 10px; /* Adjusted padding */
             cursor: pointer;
-            border-radius: 5px;
+            border-radius: 5px; /* Consistent rounded corners */
             font-weight: 600;
-            transition: background-color 0.2s ease;
-            margin-right: 5px;
-        }
-
-        .cart-item .quantity-controls button:last-child {
-            margin-right: 10px; /* Spacing next to the '+' button */
+            transition: all 0.2s ease; /* Smooth transition for all changes */
+            margin: 0 2px; /* Adjust margin for spacing */
+            min-width: 35px; /* Ensure buttons have a minimum width */
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05); /* Subtle shadow */
+            font-size: 1em; /* Adjusted font size for buttons */
+            height: 35px; /* Ensure consistent height for buttons */
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
         .cart-item .quantity-controls button:hover {
-            background-color: #e0e0e0;
+            background-color: #e0e0e0; /* Slightly darker on hover */
+            border-color: #bbb; /* Darker border on hover */
+            transform: translateY(-1px); /* Subtle lift */
         }
 
-        .cart-item .quantity-controls span {
-            margin: 0 10px;
+        .cart-item .quantity-controls button:active {
+            transform: translateY(0); /* Reset on click */
+            box-shadow: none; /* Remove shadow on click */
+        }
+
+        .cart-item .quantity-controls .item-quantity { /* Targeting the span with class item-quantity */
+            margin: 0 8px; /* Spacing around the quantity number */
             font-weight: 700;
-            color: #333;
+            color: #333; /* Dark text for readability */
+            font-size: 1.1em; /* Adjusted font size */
+            min-width: 25px; /* Ensure quantity display has a minimum width */
+            text-align: center;
+            line-height: 1; /* Ensure text is vertically centered */
+        }
+
+        .remove-item-btn {
+            background-color: transparent; /* Transparent background */
+            color: #cc0000; /* Red color for remove action */
+            border: none; /* No border */
+            padding: 8px; /* Padding for click area */
+            cursor: pointer;
+            border-radius: 5px;
+            font-size: 1.3em; /* Larger icon size */
+            font-weight: 600;
+            transition: color 0.2s ease, transform 0.2s ease;
+            flex-shrink: 0; /* Prevent button from shrinking */
+        }
+
+        .remove-item-btn:hover {
+            color: #ff0000; /* Brighter red on hover */
+            transform: scale(1.1); /* Slightly enlarge on hover */
+        }
+
+        .remove-item-btn::before {
+            content: '×'; /* Simple 'x' icon */
+        }
+
+        .order-summary {
+            padding: 20px;
+            border-top: 1px solid #eee;
+            margin-top: 20px;
+        }
+
+        .order-total {
+            display: flex;
+            justify-content: space-between;
+            font-weight: 700;
+            font-size: 1.2em;
+            margin-bottom: 15px;
+        }
+
+        .progress-bar-container {
+            width: 100%;
+            background-color: #e0e0e0;
+            border-radius: 5px;
+            margin-bottom: 5px;
+        }
+
+        .progress-bar {
+            height: 10px;
+            background-color: #4a4a4a;
+            border-radius: 5px;
+            transition: width 0.3s ease;
+        }
+
+        .progress-text {
+            font-size: 0.9em;
+            color: #666;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .place-order-btn {
+            background-color: #4a4a4a; /* Darker, more premium button color */
+            color: white;
+            border: none;
+            padding: 15px 25px; /* Increased padding for a bigger button */
+            cursor: pointer;
+            border-radius: 8px; /* More rounded button corners */
+            width: 100%;
+            align-self: flex-end;
+            font-size: 1.1em; /* Slightly larger font size */
+            font-weight: 600;
+            transition: background-color 0.2s ease, transform 0.1s ease;
+            /* Removed letter-spacing and text-transform to match add-to-cart-btn aesthetic */
+        }
+        
+        .place-order-btn:hover:not(:disabled) {
+            background-color: #333; /* Slightly darker on hover */
+            transform: translateY(-2px); /* Subtle lift on hover */
+        }
+                
+        .place-order-btn:disabled {
+            background-color: #cccccc; /* Neutral grey for disabled */
+            color: #999999; /* Darker grey text */
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+            opacity: 0.8; /* Slightly more opaque disabled state */
         }
 
         /* Mobile-first adjustments */
