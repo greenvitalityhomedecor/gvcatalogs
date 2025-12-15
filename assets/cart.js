@@ -103,6 +103,7 @@ export function getCartContents() {
  * @param {HTMLElement} containerElement - The element to render the cart into.
  */
 export function renderCart(containerElement) {
+    
     const cart = getCartContents();
     const items = Object.values(cart);
     const MINIMUM_ORDER = 12000;
