@@ -492,7 +492,7 @@
                         const productId = parseInt(event.target.dataset.productId);
                         const product = allProducts.find(p => p.id === productId);
                         if (product) {
-                            addToCart(product, 'Finest Porcelain Crockery (Ready Stock)');
+                          addToCart(product, 'Finest Porcelain Crockery (Ready Stock)');
                             renderCart(document.getElementById('cart-display'));
                             updateCartItemCount();
                         }

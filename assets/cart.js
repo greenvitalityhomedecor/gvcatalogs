@@ -29,12 +29,10 @@ export function addToCart(product, catalogName) {
     const trimmedSku = product.sku.trim();
     const trimmedCatalogName = catalogName.trim();
     const cartItemId = `${trimmedCatalogName}-${trimmedSku}`;
-    console.log(`addToCart: Called with product: ${product.name}, sku: "${trimmedSku}", catalogName: "${trimmedCatalogName}", Generated cartItemId: "${cartItemId}"`);
     const cart = getCart();
 
     if (cart[cartItemId]) {
         cart[cartItemId].quantity++;
-        console.log(`addToCart: Incrementing quantity for existing item ${cartItemId}. New quantity: ${cart[cartItemId].quantity}`);
     } else {
         cart[cartItemId] = {
             sku: product.sku,
@@ -44,10 +42,8 @@ export function addToCart(product, catalogName) {
             image: product.image,
             quantity: 1
         };
-        console.log(`addToCart: Adding new item ${cartItemId} with details:`, cart[cartItemId]);
     }
     saveCart(cart);
-    console.log('addToCart: Cart state after operation:', cart);
 }
 
 /**
@@ -103,7 +99,7 @@ export function getCartContents() {
  * @param {HTMLElement} containerElement - The element to render the cart into.
  */
 export function renderCart(containerElement) {
-    
+
     const cart = getCartContents();
     const items = Object.values(cart);
     const MINIMUM_ORDER = 12000;
