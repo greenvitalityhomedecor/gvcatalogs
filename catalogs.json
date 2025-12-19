@@ -14,5 +14,13 @@
     "path": "catalog2/index.html",
     "image": "Logo.png",
     "visible": true
+  }  ,
+  {
+    "id": "catalog3",
+    "title": "Outdoor Planter Ready Stock",
+    "category": "Large Planters",
+    "path": "catalog3/index.html",
+    "image": "Logo.png",
+    "visible": true
   }
 ]
