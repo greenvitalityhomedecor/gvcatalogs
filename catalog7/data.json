@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "H11\" D8\"",
+    "sku": "-OhjUABTeW0ovcRfRWSx",
+    "price": 2240.0,
+    "image": "images/H11 D8_0001_img2.jpg",
+    "description": "H11\" D8\""
+  },
+  {
+    "id": 2,
+    "name": "",
+    "sku": "-OhKu3HkWj0z6yrQXW1d",
+    "price": 1258.6,
+    "image": "images/DNF Ceramics logo_0002_img2.jpg",
+    "description": "A high-quality product: "
+  },
+  {
+    "id": 3,
+    "name": "",
+    "sku": "-OhKu3Hjr_O1Iio0NUb2",
+    "price": 1118.6,
+    "image": "images/DNF Ceramics logo_0003_img2.jpg",
+    "description": "A high-quality product: "
+  },
+  {
+    "id": 4,
+    "name": "H12'' D10'' (Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-Og0nxFnrB88lC5qzwF7",
+    "price": 1379.0,
+    "image": "images/H12'' D10'' (Price is Inclusive of Lamp Shade & El_0004_img2.jpg",
+    "description": "H12'' D10'' (Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 5,
+    "name": "H8\" D8\"(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-Og0nxFnrB88lC5qzwF0",
+    "price": 1398.6,
+    "image": "images/H8 D8(Price is Inclusive of Lamp Shade & Electric_0005_img2.jpg",
+    "description": "H8\" D8\"(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 6,
+    "name": "H10.5'' D5'' (Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-Og0nxFmRmA4iNgUcrQ4",
+    "price": 1341.2,
+    "image": "images/H10.5'' D5'' (Price is Inclusive of Lamp Shade & E_0006_img2.jpg",
+    "description": "H10.5'' D5'' (Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 7,
+    "name": "H12'' D7''(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-Og0nxFnrB88lC5qzwEz",
+    "price": 1680.0,
+    "image": "images/H12'' D7''(Price is Inclusive of Lamp Shade & Elec_0007_img2.jpg",
+    "description": "H12'' D7''(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 8,
+    "name": "H12\" D7\"(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-Og0nxFnrB88lC5qzwF1",
+    "price": 1540.0,
+    "image": "images/H12 D7(Price is Inclusive of Lamp Shade & Electric_0008_img2.jpg",
+    "description": "H12\" D7\"(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 9,
+    "name": "H8'' D6.5'' (Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-Og0nxFnrB88lC5qzwF2",
+    "price": 1258.6,
+    "image": "images/H8'' D6.5'' (Price is Inclusive of Lamp Shade & El_0009_img2.jpg",
+    "description": "H8'' D6.5'' (Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 10,
+    "name": "H10\" D7\"(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-Og0nxFnrB88lC5qzwF3",
+    "price": 1258.6,
+    "image": "images/H10 D7(Price is Inclusive of Lamp Shade & Electric_0010_img2.jpg",
+    "description": "H10\" D7\"(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 11,
+    "name": "H12'' D7''(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-Og0nxFnrB88lC5qzwF4",
+    "price": 1680.0,
+    "image": "images/H12'' D7''(Price is Inclusive of Lamp Shade & Elec_0011_img2.jpg",
+    "description": "H12'' D7''(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 12,
+    "name": "H12\" D7\"",
+    "sku": "-Og0nxFnrB88lC5qzwF5",
+    "price": 1540.0,
+    "image": "images/H12 D7_0012_img2.jpg",
+    "description": "H12\" D7\""
+  },
+  {
+    "id": 13,
+    "name": "H10.5'' D5'' (Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-Og0nxFnrB88lC5qzwF6",
+    "price": 1118.6,
+    "image": "images/H10.5'' D5'' (Price is Inclusive of Lamp Shade & E_0013_img2.jpg",
+    "description": "H10.5'' D5'' (Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 14,
+    "name": "H10.5'' D5'' (Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-Og0nxFnrB88lC5qzwF8",
+    "price": 1118.6,
+    "image": "images/H10.5'' D5'' (Price is Inclusive of Lamp Shade & E_0014_img2.jpg",
+    "description": "H10.5'' D5'' (Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 15,
+    "name": "H10.5'' D5'' (Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-Og0nxFnrB88lC5qzwF9",
+    "price": 1118.6,
+    "image": "images/H10.5'' D5'' (Price is Inclusive of Lamp Shade & E_0015_img2.jpg",
+    "description": "H10.5'' D5'' (Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 16,
+    "name": "H12'' D6.5''",
+    "sku": "-OfnIBUGQTrBMtyXGw8a",
+    "price": 1540.0,
+    "image": "images/H12'' D6.5''_0016_img2.jpg",
+    "description": "H12'' D6.5''"
+  },
+  {
+    "id": 17,
+    "name": "H5.5'' D5.5''(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OZ49GLze795yS-NaZ_e",
+    "price": 1118.6,
+    "image": "images/H5.5'' D5.5''(Price is Inclusive of Lamp Shade & E_0017_img2.jpg",
+    "description": "H5.5'' D5.5''(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 18,
+    "name": "H11'' D8'' (Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-ObIQBFlD5-w82ipOc31",
+    "price": 1540.0,
+    "image": "images/H11'' D8'' (Price is Inclusive of Lamp Shade & Ele_0018_img2.jpg",
+    "description": "H11'' D8'' (Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 19,
+    "name": "H8'' D6.5'' (Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-ObIQBFlD5-w82ipOc32",
+    "price": 1258.6,
+    "image": "images/H8'' D6.5'' (Price is Inclusive of Lamp Shade & El_0019_img2.jpg",
+    "description": "H8'' D6.5'' (Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 20,
+    "name": "H10.5'' D5'' (Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-ObIQBFlD5-w82ipOc33",
+    "price": 1341.2,
+    "image": "images/H10.5'' D5'' (Price is Inclusive of Lamp Shade & E_0020_img2.jpg",
+    "description": "H10.5'' D5'' (Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 21,
+    "name": "H8.5'' D7(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OZ49GLze795yS-NaZ_d",
+    "price": 1470.0,
+    "image": "images/H8.5'' D7(Price is Inclusive of Lamp Shade & Elect_0021_img2.jpg",
+    "description": "H8.5'' D7(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 22,
+    "name": "H10'' D6.5''(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OZ49GLze795yS-NaZ_g",
+    "price": 1398.6,
+    "image": "images/H10'' D6.5''(Price is Inclusive of Lamp Shade & El_0022_img2.jpg",
+    "description": "H10'' D6.5''(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 23,
+    "name": "H7.5'' D7''(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OZ49GLze795yS-NaZ_h",
+    "price": 1190.0,
+    "image": "images/H7.5'' D7''(Price is Inclusive of Lamp Shade & Ele_0023_img2.jpg",
+    "description": "H7.5'' D7''(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 24,
+    "name": "H12'' D7''(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OZ49GLze795yS-NaZ_j",
+    "price": 1540.0,
+    "image": "images/H12'' D7''(Price is Inclusive of Lamp Shade & Elec_0024_img2.jpg",
+    "description": "H12'' D7''(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 25,
+    "name": "H12\u201d D10\u201d(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OY61DswCHZJnBaCa2TZ",
+    "price": 2100.0,
+    "image": "images/H12\u201d D10\u201d(Price is Inclusive of Lamp Shade & Elect_0025_img2.jpg",
+    "description": "H12\u201d D10\u201d(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 26,
+    "name": "H12\u201d D10\u201d(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OY61DswCHZJnBaCa2TX",
+    "price": 2100.0,
+    "image": "images/H12\u201d D10\u201d(Price is Inclusive of Lamp Shade & Elect_0026_img2.jpg",
+    "description": "H12\u201d D10\u201d(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 27,
+    "name": "H20\u201d D14\u201d(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OY61DswCHZJnBaCa2T_",
+    "price": 2798.6,
+    "image": "images/H20\u201d D14\u201d(Price is Inclusive of Lamp Shade & Elect_0027_img2.jpg",
+    "description": "H20\u201d D14\u201d(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 28,
+    "name": "H12\u201d D10\u201d(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OXqO0Dk98jQ3q0bZ5Lm",
+    "price": 1540.0,
+    "image": "images/H12\u201d D10\u201d(Price is Inclusive of Lamp Shade & Elect_0028_img2.jpg",
+    "description": "H12\u201d D10\u201d(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 29,
+    "name": "H9'' D7''(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OXHg-wLT_xZm63r3zim",
+    "price": 1470.0,
+    "image": "images/H9'' D7''(Price is Inclusive of Lamp Shade & Elect_0029_img2.jpg",
+    "description": "H9'' D7''(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 30,
+    "name": "H10'' D6.5''",
+    "sku": "-OUs1h4OGclBk4WB0lFH",
+    "price": 1190.0,
+    "image": "images/H10'' D6.5''_0030_img2.jpg",
+    "description": "H10'' D6.5''"
+  },
+  {
+    "id": 31,
+    "name": "H10'' D6.5''",
+    "sku": "-OUs1h4OGclBk4WB0lFI",
+    "price": 1190.0,
+    "image": "images/H10'' D6.5''_0031_img2.jpg",
+    "description": "H10'' D6.5''"
+  },
+  {
+    "id": 32,
+    "name": "H7.5'' D8''",
+    "sku": "-OUs1h4OGclBk4WB0lFL",
+    "price": 1155.0,
+    "image": "images/H7.5'' D8''_0032_img2.jpg",
+    "description": "H7.5'' D8''"
+  },
+  {
+    "id": 33,
+    "name": "H11.5'' D10''",
+    "sku": "-OUs1h4OGclBk4WB0lFM",
+    "price": 1288.0,
+    "image": "images/H11.5'' D10''_0033_img2.jpg",
+    "description": "H11.5'' D10''"
+  },
+  {
+    "id": 34,
+    "name": "H22'' D11''(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OO8EXdCJ20FQhtf5xTq",
+    "price": 1398.6,
+    "image": "images/H22'' D11''(Price is Inclusive of Lamp Shade & Ele_0034_img2.jpg",
+    "description": "H22'' D11''(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 35,
+    "name": "H17.5'' D8''",
+    "sku": "-OTfsJNAjX1szw7G2hq-",
+    "price": 1540.0,
+    "image": "images/H17.5'' D8''_0035_img2.jpg",
+    "description": "H17.5'' D8''"
+  },
+  {
+    "id": 36,
+    "name": "H8'' D9''",
+    "sku": "-OTfsJNB7dAOsTUgHuAy",
+    "price": 1190.0,
+    "image": "images/H8'' D9''_0036_img2.jpg",
+    "description": "H8'' D9''"
+  },
+  {
+    "id": 37,
+    "name": "H22'' D11''(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OO8EXdCJ20FQhtf5xTu",
+    "price": 1398.6,
+    "image": "images/H22'' D11''(Price is Inclusive of Lamp Shade & Ele_0037_img2.jpg",
+    "description": "H22'' D11''(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 38,
+    "name": "H8'' D8''(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OO8EXdCJ20FQhtf5xTp",
+    "price": 1398.6,
+    "image": "images/H8'' D8''(Price is Inclusive of Lamp Shade & Elect_0038_img2.jpg",
+    "description": "H8'' D8''(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 39,
+    "name": "H11.5'' D5''",
+    "sku": "-ORfj5GqyPveKrusrFDm",
+    "price": 1470.0,
+    "image": "images/H11.5'' D5''_0039_img2.jpg",
+    "description": "H11.5'' D5''"
+  },
+  {
+    "id": 40,
+    "name": "H12'' D6.5''",
+    "sku": "-ORfj5GqyPveKrusrFDn",
+    "price": 1398.6,
+    "image": "images/H12'' D6.5''_0040_img2.jpg",
+    "description": "H12'' D6.5''"
+  },
+  {
+    "id": 41,
+    "name": "H11.5'' D9.5''",
+    "sku": "-ORfj5GqyPveKrusrFDr",
+    "price": 1470.0,
+    "image": "images/H11.5'' D9.5''_0041_img2.jpg",
+    "description": "H11.5'' D9.5''"
+  },
+  {
+    "id": 42,
+    "name": "H9.5'' D5.5''",
+    "sku": "-ORfj5GqyPveKrusrFDo",
+    "price": 1048.6,
+    "image": "images/H9.5'' D5.5''_0042_img2.jpg",
+    "description": "H9.5'' D5.5''"
+  },
+  {
+    "id": 43,
+    "name": "H8.5'' D9''",
+    "sku": "-ORfj5GqyPveKrusrFDq",
+    "price": 1285.2,
+    "image": "images/H8.5'' D9''_0043_img2.jpg",
+    "description": "H8.5'' D9''"
+  },
+  {
+    "id": 44,
+    "name": "H18'' D11''(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OO8EXdCJ20FQhtf5xTt",
+    "price": 1215.2,
+    "image": "images/H18'' D11''(Price is Inclusive of Lamp Shade & Ele_0044_img2.jpg",
+    "description": "H18'' D11''(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 45,
+    "name": "H19'' D13''",
+    "sku": "-OKfRdxUYS9ATZs_b7Nf",
+    "price": 1190.0,
+    "image": "images/H19'' D13''_0045_img2.jpg",
+    "description": "H19'' D13''"
+  },
+  {
+    "id": 46,
+    "name": "H9'' D7''(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OLhzAA_L0Kmp2u0pD1g",
+    "price": 1470.0,
+    "image": "images/H9'' D7''(Price is Inclusive of Lamp Shade & Elect_0046_img2.jpg",
+    "description": "H9'' D7''(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 47,
+    "name": "H9'' D7''(Price is Inclusive of Lamp Shade & Electric fittings)",
+    "sku": "-OLhzAA_L0Kmp2u0pD1h",
+    "price": 1470.0,
+    "image": "images/H9'' D7''(Price is Inclusive of Lamp Shade & Elect_0047_img2.jpg",
+    "description": "H9'' D7''(Price is Inclusive of Lamp Shade & Electric fittings)"
+  },
+  {
+    "id": 48,
+    "name": "H18'' D13''",
+    "sku": "-OKfRdxUYS9ATZs_b7Nc",
+    "price": 1505.0,
+    "image": "images/H18'' D13''_0048_img2.jpg",
+    "description": "H18'' D13''"
+  },
+  {
+    "id": 49,
+    "name": "H9.5'' D5.5''",
+    "sku": "-OKfRdxUYS9ATZs_b7Ng",
+    "price": 1050.0,
+    "image": "images/H9.5'' D5.5''_0049_img2.jpg",
+    "description": "H9.5'' D5.5''"
+  },
+  {
+    "id": 50,
+    "name": "",
+    "sku": "-OECncb_MNjOYiB5zpDH",
+    "price": 0.0,
+    "image": "images/DNF Ceramics logo_0050_img2.jpg",
+    "description": "A high-quality product: "
+  }
+]

@@ -22,5 +22,37 @@
     "path": "catalog3/index.html",
     "image": "Logo.png",
     "visible": true
+  },
+  {
+    "id": "catalog4",
+    "title": "Rustic Aged Pots & Planters",
+    "category": "Premium Pots Catalogues",
+    "path": "catalog4/index.html",
+    "image": "Logo.png",
+    "visible": true
+  },
+  {
+    "id": "catalog5",
+    "title": "Teracotta Planters & Urn's",
+    "category": "Teracotta",
+    "path": "catalog5/index.html",
+    "image": "Logo.png",
+    "visible": true
+  },
+  {
+    "id": "catalog6",
+    "title": "Handmade Pots",
+    "category": "Premium Pots Catalogues",
+    "path": "catalog6/index.html",
+    "image": "Logo.png",
+    "visible": true
+  },
+  {
+    "id": "catalog7",
+    "title": "Ceramic Table Lamp",
+    "category": "Home Decor Catalogues",
+    "path": "catalog7/index.html",
+    "image": "Logo.png",
+    "visible": true
   }
 ]
